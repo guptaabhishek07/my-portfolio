@@ -1,7 +1,0 @@
-import sanityclient from '@sanity/client'
-
-export default sanityclient({
-   projectId: "61ahbb6g"
-   dataset: "production" 
-})
-
